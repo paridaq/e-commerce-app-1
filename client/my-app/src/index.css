@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box
+}
+.col-md-3{
+    display: flex;
+    flex-wrap: wrap; /* Allow rows to wrap */
+    gap: 20px; /* Gap between columns */
+    padding: 20px;
+}
